@@ -41,7 +41,7 @@
 
 ## 📌 Projects
 <p align="center">
-  <img src="https://github.com/Jeyashree-K-A/DreamyPages/main/images/trail.jpg" width="180" alt="DreamyPages Logo">
+  <img src="https://raw.githubusercontent.com/Jeyashree-K-A/DreamyPages/main/images/trail.jpg" width="180" alt="DreamyPages Logo">
 </p>
 
  📖 DreamyPages  
