@@ -46,8 +46,11 @@ DreamyPages is a simple book recommendation website developed with a focus on cl
 The project allows users to explore book suggestions through an easy-to-understand interface and was created to strengthen core HTML, CSS and Javascript fundamentals.  
 This project is currently optimized for desktop viewing and emphasizes structured page design.
 
+🔗 **Live Demo:** https://jeyashree-k-a.github.io/DreamyPages/
+
 **Tech Used:** 
 <img src="https://skillicons.dev/icons?i=html,css,js" />
+
 
 ### 🛒 Shoppy
 Full-stack MERN e-commerce web application  
