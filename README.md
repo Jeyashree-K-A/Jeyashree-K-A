@@ -9,7 +9,7 @@
 
 ## 👩‍💻 About Me
 - 🎓 Pre-Final Year Engineering Student  
-- 💻 MERN Stack Developer  
+- 💻 Aspiring MERN Stack Developer  
 - 🌱 Currently learning full-stack web development  
 - 📍 Tamil Nadu, India  
 
@@ -41,9 +41,13 @@
 
 ## 📌 Projects
 
-### 📖 DreamyPages
-Book recommendation website  
-**Tech:** HTML, CSS  
+### 📖 DreamyPages  
+DreamyPages is a simple book recommendation website developed with a focus on clean layout, typography, and visual presentation.  
+The project allows users to explore book suggestions through an easy-to-understand interface and was created to strengthen core HTML, CSS and Javascript fundamentals.  
+This project is currently optimized for desktop viewing and emphasizes structured page design.
+
+**Tech Used:** 
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
 ### 🛒 Shoppy
 Full-stack MERN e-commerce web application  
