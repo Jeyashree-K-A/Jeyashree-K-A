@@ -95,7 +95,7 @@
 
 ## 📫 Connect With Me
 <p>
-  <a href="www.linkedin.com/in/jeyashree30" target="_blank">
+  <a href="https://www.linkedin.com/in/jeyashree30" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:23cseb11jeyashree@gmail.com">
