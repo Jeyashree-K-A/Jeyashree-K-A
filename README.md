@@ -41,9 +41,10 @@
 
 ## 📌 Projects
 <p align="center">
-  <img src="images/trail.jpg" width="180" alt="DreamyPages Logo">
+  <img src="https://github.com/Jeyashree-K-A)/DreamyPages/main/images/trail.jpg" width="180" alt="DreamyPages Logo">
 </p>
-### 📖 DreamyPages  
+
+ 📖 DreamyPages  
 ✨DreamyPages is a simple book recommendation website developed with a focus on clean layout, typography, and visual presentation.  
 ✨The project allows users to explore book suggestions through an easy-to-understand interface and was created to strengthen core HTML, CSS and Javascript fundamentals.  
 ✨This project is currently optimized for desktop viewing and emphasizes structured page design.
