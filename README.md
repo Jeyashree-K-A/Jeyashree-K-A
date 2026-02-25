@@ -58,7 +58,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jeyashree-K-A/Shoppy/frontend/public/logo.avif" width="180" alt="Shoppy Logo">
+  <img src="https://raw.githubusercontent.com/Jeyashree-K-A/Shoppy/main/frontend/public/ShoppyLogo.png" width="180" alt="Shoppy Logo">
 </p>
 
 🛒 **Shoppy**  
@@ -75,7 +75,7 @@
 <img src="https://skillicons.dev/icons?i=cloudinary" /> 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jeyashree-K-A/PulsePoint/frontend/public/favicon.png" width="180" alt="PulsePoint Logo">
+  <img src="https://raw.githubusercontent.com/Jeyashree-K-A/PulsePoint/main/frontend/public/favicon.png" width="180" alt="PulsePoint Logo">
 </p>
 
 ⚡ **PulsePoint**  
