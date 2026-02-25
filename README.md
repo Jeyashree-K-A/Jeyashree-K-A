@@ -42,7 +42,7 @@
 ## 📌 Projects
 
 <p align="center">
-  <img src="images/icon.jpeg" width="200" alt="DreamyPages Logo"/>
+  <img src="images/icon.jpeg" width="180" alt="DreamyPages Logo">
 </p>
 ### 📖 DreamyPages  
 ✨DreamyPages is a simple book recommendation website developed with a focus on clean layout, typography, and visual presentation.  
