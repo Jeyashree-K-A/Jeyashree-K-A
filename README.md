@@ -2,6 +2,14 @@
 <h3 align="center">Aspiring MERN Stack Developer | Pre-Final Year Student</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Aspiring+MERN+Stack+Developer;Pre-Final+Year+Student;Building+cool+web+apps+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Jeyashree-K-A/Jeyashree-K-A/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jeyashree-K-A&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
@@ -9,10 +17,9 @@
 
 ## 👩‍💻 About Me
 - 🎓 Pre-Final Year Engineering Student  
-- 💻 Aspiring MERN Stack Developer  
-- 🌱 Currently learning full-stack web development  
-- 📍 Tamil Nadu, India  
-
+- 💻 MERN Stack Developer with practical experience in building web applications  
+- 🌱 Continuously improving full-stack development skills through projects  
+- 📍 Tamil Nadu, India
 ---
 
 ## 🚀 Tech Stack
@@ -72,7 +79,6 @@
 
 **Tech Used:**  
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js" />  
-<img src="https://skillicons.dev/icons?i=cloudinary" /> 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Jeyashree-K-A/PulsePoint/main/frontend/public/favicon.png" width="180" alt="PulsePoint Logo">
@@ -95,10 +101,10 @@
 
 ## 📫 Connect With Me
 <p>
-  <a href="https://www.linkedin.com/in/your-link" target="_blank">
+  <a href="www.linkedin.com/in/jeyashree30" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:23cseb11jeyashree@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
