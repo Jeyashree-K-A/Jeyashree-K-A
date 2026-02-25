@@ -49,7 +49,7 @@
 ✨The project allows users to explore book suggestions through an easy-to-understand interface and was created to strengthen core HTML, CSS and Javascript fundamentals.  
 ✨This project is currently optimized for desktop viewing and emphasizes structured page design.
 
-🔗 **Live Demo:** https://jeyashree-k-a.github.io/DreamyPages/
+🔗 Live Demo: https://jeyashree-k-a.github.io/DreamyPages/
 
 **Tech Used:** 
 <img src="https://skillicons.dev/icons?i=html,css,js" />
@@ -67,7 +67,7 @@
 ✨Product images are uploaded and managed using Cloudinary, enabling efficient cloud-based image storage and retrieval.  
 ✨Email notifications are implemented using Brevo (Sendinblue) to send order confirmations and updates, enhancing user communication and experience.
 
-🔗 **Live Demo:**https://shoppy-ou5z.onrender.com
+🔗 Live Demo: https://shoppy-ou5z.onrender.com
 🔗 **GitHub Repo:** https://github.com/Jeyashree-K-A/Shoppy
 
 **Tech Used:**  
